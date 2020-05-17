@@ -1,0 +1,58 @@
+<svg width="501" height="301" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" stroke="black">
+        <rect id="left" height="300" width="500" y="0" x="0" stroke-width="1.5" stroke="#000" fill="#ECE2E0"/>
+        <line stroke-dasharray="5,5" id="svg_1" y2="300" x2="20" y1="0" x1="20" stroke-width="1.5" stroke="#000"
+              fill="none"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="15" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="45" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="75" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="105" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="135" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="165" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="195" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="225" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="255" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="285" cx="10" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <line stroke-dasharray="5,5" id="svg_1" y2="300" x2="480" y1="0" x1="480" stroke-width="1.5" stroke="#000"
+              fill="none"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="15" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="45" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="75" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="105" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="135" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="165" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="195" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="225" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="255" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="5" rx="5" id="svg_5" cy="285" cx="490" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#000" fill="#fff"/>
+        <ellipse ry="25" rx="40" id="svg_5" cy="40" cx="250" fill-opacity="null" stroke-opacity="null" stroke-width="3"
+                 stroke="#f00" fill="none"/>
+        <ellipse ry="20" rx="34" id="svg_5" cy="40" cx="250" fill-opacity="null" stroke-opacity="null" stroke-width="1"
+                 stroke="#f00" fill="none"/>
+        <rect id="left" height="200" width="420" y="80" x="40" stroke-width="1" stroke="#000" fill="#none"/>
+        <rect id="left" height="50" width="50" y="15" x="40" stroke-width="1" stroke="#000" fill="#000"/>
+        <text y="30" x="100" stroke-width="1" fill="#000">XXXXXXXXXX</text>
+        <text y="30" x="320" stroke-width="1" fill="#000">No</text>
+        <text y="30" x="350" stroke-width="1" fill="#00f" stroke="#00f">XXXXXXXX</text>
+    </g>
+</svg>
